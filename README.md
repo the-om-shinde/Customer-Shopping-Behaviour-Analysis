@@ -1,5 +1,9 @@
 # Customer Shopping Behaviour Analysis
 
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
 ## Project Overview
 
 This project focuses on analyzing customer shopping behaviour using Python, MySQL, SQL, and Power BI. The objective is to identify purchasing patterns, customer demographics, product preferences, and revenue trends to support data-driven business decisions.
